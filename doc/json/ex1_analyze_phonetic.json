@@ -1,0 +1,81 @@
+{
+	{
+		"sentences": [
+			{
+				"words": [
+					{
+						"analysis": [
+						],
+						"word": "Elu"
+					},
+					{
+						"analysis": [
+						],
+						"word": "on"
+					},
+					{
+						"analysis": [
+						],
+						"word": "tore"
+					},
+					{
+						"analysis": [
+						],
+						"word": "."
+					}
+				]
+			},
+			{
+				"words": [
+					{
+						"analysis": [
+						],
+						"word": "Teine"
+					},
+					{
+						"analysis": [
+						],
+						"word": "lause"
+					},
+					{
+						"analysis": [
+						],
+						"word": "."
+					}
+				]
+			}
+		]
+	},
+	{
+		"sentences": [
+			{
+				"words": [
+					{
+						"analysis": [
+						],
+						"word": "Elu"
+					},
+					{
+						"analysis": [
+						],
+						"word": "on"
+					},
+					{
+						"analysis": [
+						],
+						"word": "tore"
+					},
+					{
+						"analysis": [
+						],
+						"word": "."
+					}
+				]
+			}
+		]
+	},
+	{
+		"sentences": [
+		]
+	}
+}

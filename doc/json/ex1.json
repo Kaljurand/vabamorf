@@ -1,0 +1,78 @@
+{
+    "documents": [
+        {
+            "id": "1",
+            "paragraphs": [
+                {
+                    "sentences": [
+                        {
+                            "id": "1",
+                            "tag": "foo",
+                            "words": [
+                                {
+                                    "word": "Elu"
+                                },
+                                {
+                                    "word": "on"
+                                },
+                                {
+                                    "word": "tore"
+                                },
+                                {
+                                    "word": "."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2",
+                            "words": [
+                                {
+                                    "word": "Teine"
+                                },
+                                {
+                                    "word": "lause"
+                                },
+                                {
+                                    "word": "."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "paragraphs": [
+                {
+                    "sentences": [
+                        {
+                            "id": "1",
+                            "words": [
+                                {
+                                    "word": "Elu"
+                                },
+                                {
+                                    "word": "on"
+                                },
+                                {
+                                    "word": "tore"
+                                },
+                                {
+                                    "word": "."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "title": {
+                "sentences": [
+                    {
+                        "word": "Pealkiri"
+                    }
+                ]
+            }
+        }
+    ]
+}
