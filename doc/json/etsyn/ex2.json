@@ -1,0 +1,20 @@
+{
+    "test": "hint 'palgu' is ignored, is it used only in post-processing?",
+    "words": [
+        {
+            "lemma": "palk",
+            "form": "sg g",
+            "hint": "palgi"
+        },
+        {
+            "lemma": "palk",
+            "form": "sg g",
+            "hint": "palga"
+        },
+        {
+            "lemma": "palk",
+            "form": "sg g",
+            "hint": "palgu"
+        }
+    ]
+}

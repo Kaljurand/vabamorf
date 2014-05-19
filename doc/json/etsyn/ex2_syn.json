@@ -1,0 +1,29 @@
+{
+	"words": [
+		{
+			"form": "sg g",
+			"hint": "palgi",
+			"lemma": "palk",
+			"text": [
+				"palgi"
+			]
+		},
+		{
+			"form": "sg g",
+			"hint": "palga",
+			"lemma": "palk",
+			"text": [
+				"palga"
+			]
+		},
+		{
+			"form": "sg g",
+			"hint": "palgu",
+			"lemma": "palk",
+			"text": [
+				"palga",
+				"palgi"
+			]
+		}
+	]
+}

@@ -10,16 +10,16 @@
                             "tag": "foo",
                             "words": [
                                 {
-                                    "word": "Elu"
+                                    "text": "Elu"
                                 },
                                 {
-                                    "word": "on"
+                                    "text": "on"
                                 },
                                 {
-                                    "word": "tore"
+                                    "text": "tore"
                                 },
                                 {
-                                    "word": "."
+                                    "text": "."
                                 }
                             ]
                         },
@@ -27,13 +27,13 @@
                             "id": "2",
                             "words": [
                                 {
-                                    "word": "Teine"
+                                    "text": "Teine"
                                 },
                                 {
-                                    "word": "lause"
+                                    "text": "lause"
                                 },
                                 {
-                                    "word": "."
+                                    "text": "."
                                 }
                             ]
                         }
@@ -50,16 +50,16 @@
                             "id": "1",
                             "words": [
                                 {
-                                    "word": "Elu"
+                                    "text": "Elu"
                                 },
                                 {
-                                    "word": "on"
+                                    "text": "on"
                                 },
                                 {
-                                    "word": "tore"
+                                    "text": "tore"
                                 },
                                 {
-                                    "word": "."
+                                    "text": "."
                                 }
                             ]
                         }
@@ -69,7 +69,7 @@
             "title": {
                 "sentences": [
                     {
-                        "word": "Pealkiri"
+                        "text": "Pealkiri"
                     }
                 ]
             }

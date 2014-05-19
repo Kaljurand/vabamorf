@@ -1,0 +1,120 @@
+{
+	"paragraphs": [
+		{
+			"sentences": [
+				{
+					"words": [
+						{
+							"analysis": [
+								{
+									"clitic": "",
+									"ending": "s",
+									"form": "sg in",
+									"partofspeech": "O",
+									"root": "esimene"
+								},
+								{
+									"clitic": "",
+									"ending": "s",
+									"form": "sg in",
+									"partofspeech": "P",
+									"root": "esimene"
+								}
+							],
+							"text": "Esimeses"
+						},
+						{
+							"analysis": [
+							],
+							"text": "vannaema"
+						},
+						{
+							"analysis": [
+								{
+									"clitic": "",
+									"ending": "0",
+									"form": "sg n",
+									"partofspeech": "H",
+									"root": "New Y<ork"
+								}
+							],
+							"text": "New York"
+						},
+						{
+							"analysis": [
+							],
+							"text": "."
+						}
+					]
+				},
+				{
+					"words": [
+						{
+							"analysis": [
+								{
+									"clitic": "",
+									"ending": "0",
+									"form": "o",
+									"partofspeech": "V",
+									"root": "mine"
+								}
+							],
+							"text": "mine"
+						},
+						{
+							"analysis": [
+								{
+									"clitic": "",
+									"ending": "di",
+									"form": "ti",
+									"partofspeech": "V",
+									"root": "p<oo"
+								},
+								{
+									"clitic": "",
+									"ending": "0",
+									"form": "adt",
+									"partofspeech": "S",
+									"root": "p<ood]"
+								},
+								{
+									"clitic": "",
+									"ending": "0",
+									"form": "sg p",
+									"partofspeech": "S",
+									"root": "p<ood]"
+								}
+							],
+							"text": "poodi"
+						},
+						{
+							"analysis": [
+							],
+							"text": "."
+						}
+					]
+				}
+			]
+		},
+		{
+			"sentences": [
+				{
+					"words": [
+						{
+							"analysis": [
+								{
+									"clitic": "",
+									"ending": "0",
+									"form": "sg n",
+									"partofspeech": "A",
+									"root": "viimane"
+								}
+							],
+							"text": "viimane"
+						}
+					]
+				}
+			]
+		}
+	]
+}

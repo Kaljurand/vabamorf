@@ -1,0 +1,44 @@
+{
+	"words": [
+		{
+			"form": "sg p",
+			"lemma": "pood",
+			"partofspeech": "S",
+			"text": [
+				"poodi"
+			]
+		},
+		{
+			"form": "ti",
+			"lemma": "pooma",
+			"partofspeech": "V",
+			"text": [
+				"poodi"
+			]
+		},
+		{
+			"form": "sg g",
+			"lemma": "kaitse",
+			"text": [
+				"kaitse",
+				"kaitsme"
+			]
+		},
+		{
+			"form": "sg kom",
+			"lemma": "palk",
+			"text": [
+				"palgaga",
+				"palgiga"
+			]
+		},
+		{
+			"form": "sg kom",
+			"hint": "palga",
+			"lemma": "palk",
+			"text": [
+				"palgaga"
+			]
+		}
+	]
+}

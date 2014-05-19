@@ -7,7 +7,10 @@ etana
 -----
 
 The input/output format of `etana` is based on JSON and documented
-in <http://www.hm.ee/index.php?popup=download&id=11970>
+in <http://www.hm.ee/index.php?popup=download&id=11970>. With the
+following differences:
+
+  - 'word' is renamed to 'text'
 
 Examples::
 
