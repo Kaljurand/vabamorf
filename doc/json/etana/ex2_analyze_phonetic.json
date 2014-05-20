@@ -1,172 +1,51 @@
 {
-	{
-		"sentences": [
-			{
-				"words": [
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "S",
-								"root": "r<aud_t<ee_j<aam"
-							}
-						],
-						"text": "raudteejaam"
-					},
-					{
-						"analysis": [
-						],
-						"text": "T\u0161eburaska"
-					},
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "H",
-								"root": "New Y<ork"
-							}
-						],
-						"text": "New York"
-					},
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "i",
-								"form": "pl p",
-								"partofspeech": "S",
-								"root": "k<ool"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "adt",
-								"partofspeech": "S",
-								"root": "k<ool]"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg g",
-								"partofspeech": "S",
-								"root": "k<ool]"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg p",
-								"partofspeech": "S",
-								"root": "k<ool]"
-							}
-						],
-						"text": "kooli"
-					},
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "S",
-								"root": "k<as]s"
-							}
-						],
-						"text": "kass"
-					},
-					{
-						"analysis": [
-						],
-						"text": "New York"
-					},
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "S",
-								"root": "p<al]k"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "S",
-								"root": "p<alk"
-							}
-						],
-						"text": "palk"
-					},
-					{
-						"analysis": [
-						],
-						"text": "New York City"
-					},
-					{
-						"analysis": [
-						],
-						"text": "\u00dcRO"
-					}
-				]
-			},
-			{
-				"words": [
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "",
-								"partofspeech": "I",
-								"root": "tere"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg g",
-								"partofspeech": "S",
-								"root": "tere"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "S",
-								"root": "tere"
-							}
-						],
-						"text": "Tere!"
-					},
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "S",
-								"root": "p<iim"
-							}
-						],
-						"text": "Piim"
-					},
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "",
-								"form": "",
-								"partofspeech": "Z",
-								"root": "..."
-							}
-						],
-						"text": "..."
-					}
-				]
-			}
-		]
-	}
+	"sentences": [
+		{
+			"words": [
+				{
+					"text": "raudteejaam"
+				},
+				{
+					"text": "T\u0161eburaska"
+				},
+				{
+					"text": "New"
+				},
+				{
+					"text": "York"
+				},
+				{
+					"text": "kooli"
+				},
+				{
+					"text": "kass"
+				},
+				{
+					"text": "New York"
+				},
+				{
+					"text": "palk"
+				},
+				{
+					"text": "New York City"
+				},
+				{
+					"text": "\u00dcRO"
+				}
+			]
+		},
+		{
+			"words": [
+				{
+					"text": "Tere!"
+				},
+				{
+					"text": "Piim"
+				},
+				{
+					"text": "..."
+				}
+			]
+		}
+	]
 }

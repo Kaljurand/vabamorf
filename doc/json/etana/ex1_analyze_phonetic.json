@@ -1,193 +1,78 @@
 {
-	{
-		"sentences": [
-			{
-				"words": [
+	"documents": [
+		{
+			"id": "1",
+			"paragraphs": [
+				{
+					"sentences": [
+						{
+							"id": "1",
+							"tag": "foo",
+							"words": [
+								{
+									"text": "Elu"
+								},
+								{
+									"text": "on"
+								},
+								{
+									"text": "tore"
+								},
+								{
+									"text": "."
+								}
+							]
+						},
+						{
+							"id": "2",
+							"words": [
+								{
+									"text": "Teine"
+								},
+								{
+									"text": "lause"
+								},
+								{
+									"text": "."
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "2",
+			"paragraphs": [
+				{
+					"sentences": [
+						{
+							"id": "1",
+							"words": [
+								{
+									"text": "Elu"
+								},
+								{
+									"text": "on"
+								},
+								{
+									"text": "tore"
+								},
+								{
+									"text": "."
+								}
+							]
+						}
+					]
+				}
+			],
+			"title": {
+				"sentences": [
 					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg g",
-								"partofspeech": "S",
-								"root": "elu"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "S",
-								"root": "elu"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg p",
-								"partofspeech": "S",
-								"root": "elu"
-							}
-						],
-						"text": "Elu"
-					},
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "b",
-								"partofspeech": "V",
-								"root": "ole"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "vad",
-								"partofspeech": "V",
-								"root": "ole"
-							}
-						],
-						"text": "on"
-					},
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "A",
-								"root": "tore"
-							}
-						],
-						"text": "tore"
-					},
-					{
-						"analysis": [
-						],
-						"text": "."
-					}
-				]
-			},
-			{
-				"words": [
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "O",
-								"root": "teine"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "P",
-								"root": "teine"
-							}
-						],
-						"text": "Teine"
-					},
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg g",
-								"partofspeech": "S",
-								"root": "lause"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "S",
-								"root": "lause"
-							}
-						],
-						"text": "lause"
-					},
-					{
-						"analysis": [
-						],
-						"text": "."
+						"text": "Pealkiri"
 					}
 				]
 			}
-		]
-	},
-	{
-		"sentences": [
-			{
-				"words": [
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg g",
-								"partofspeech": "S",
-								"root": "elu"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "S",
-								"root": "elu"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg p",
-								"partofspeech": "S",
-								"root": "elu"
-							}
-						],
-						"text": "Elu"
-					},
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "b",
-								"partofspeech": "V",
-								"root": "ole"
-							},
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "vad",
-								"partofspeech": "V",
-								"root": "ole"
-							}
-						],
-						"text": "on"
-					},
-					{
-						"analysis": [
-							{
-								"clitic": "",
-								"ending": "0",
-								"form": "sg n",
-								"partofspeech": "A",
-								"root": "tore"
-							}
-						],
-						"text": "tore"
-					},
-					{
-						"analysis": [
-						],
-						"text": "."
-					}
-				]
-			}
-		]
-	},
-	{
-		"sentences": [
-		]
-	}
+		}
+	]
 }

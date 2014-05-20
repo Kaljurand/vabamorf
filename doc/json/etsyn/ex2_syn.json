@@ -25,5 +25,6 @@
 				"palgi"
 			]
 		}
-	]
+	],
+	"test": "hint 'palgu' is ignored, is it used only in post-processing?"
 }
