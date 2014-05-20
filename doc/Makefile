@@ -18,3 +18,6 @@ update_output_examples:
 	etana analyze -lex $(dct) -guess -phonetic < $(ex_etana)test.json > $(ex_etana)test_analyze_guess_phonetic.json
 	etsyn -lex $(dct) < $(ex_etsyn)ex2.json > $(ex_etsyn)ex2_syn.json
 	etsyn -lex $(dct) < $(ex_etsyn)test.json > $(ex_etsyn)test_syn.json
+
+test_json:
+	find . -name "*.json" | while read json; do echo "$$json"; python -mjson.tool $$json > /dev/null; done
